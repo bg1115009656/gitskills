@@ -1,2 +1,2 @@
 # gitskills
-this is master!
+create a new branch dev!
